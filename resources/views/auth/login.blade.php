@@ -7,7 +7,7 @@
     <div class="login-logo">
         <a href="#">
             <b>
-                SPP
+                SPPs
             </b>
             Master
         </a>
